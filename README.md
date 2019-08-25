@@ -6,7 +6,7 @@ Nazwy w języku polskim ze względu na wymagania uczelniane projektu.
 
 League games standings
 
-One of two semester projects from the "Fundamentals of Computer Programming". This program simulates league games system.  
+One of two semester projects from the "Fundamentals of Computer Programming" (1st semester). This program simulates league games system.  
 Code is based on dynamic allocation of memory and dynamic structures (two-directional lists, queues etc.).
 
 Names in the Polish language because of the requirements of the university project.  
